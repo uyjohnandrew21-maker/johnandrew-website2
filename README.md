@@ -1,5 +1,5 @@
 # johnandrew-website2
-<!DOCTYPE html>
+
 <html>
 
 <head>
